@@ -10,7 +10,7 @@ import os, csv
 
 API_TOKEN = os.getenv("BOT_TOKEN")
 
-ADMIN_IDS = [5705261098] [997006556]
+ADMIN_IDS = [5705261098, 997006556]
 CHANNEL = "@CloudMafiaDP_OT3UBU"
 
 logging.basicConfig(level=logging.INFO)
